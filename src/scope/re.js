@@ -26,8 +26,7 @@ console.log(animal);
 
 const vehicles = [];
 vehicles.push('Toyota');
-
-console.log(vehicles);
-
 vehicles.unshift('Ford');
+
 console.log(vehicles);
+
